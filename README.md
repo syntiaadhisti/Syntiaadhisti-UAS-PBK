@@ -1,5 +1,30 @@
-# Vue 3 + Vite
+# Website Penjualan Es Krim 🍦
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Website ini merupakan proyek UAS dari mata kuliah Pemrograman Berbasis Komponen. Website ini menampilkan daftar produk es krim yang menarik, halaman tentang kami, kontak, serta fitur pemesanan sederhana.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+## 🎯 Tujuan
+
+Membuat website penjualan produk es krim yang sederhana namun menarik secara visual. Website ini bertujuan untuk mempraktikkan pemrograman komponen menggunakan framework modern (seperti Vue.js) dan penerapan routing antar halaman.
+
+## 🧩 Fitur
+
+- Halaman Home dengan sambutan dan visual menarik
+- Halaman Produk yang menampilkan daftar es krim
+- Halaman About berisi informasi toko dan kontak (alamat, WhatsApp, Instagram, dan email)
+- Navigasi antar halaman dengan routing
+- Desain responsif dan ramah pengguna
+
+## 🛠️ Teknologi yang Digunakan
+
+- **HTML5** & **CSS3**
+- **JavaScript**
+- **Vue.js** (dengan Vue Router)
+- **Netlify** untuk deployment
+
+## 🚀 Cara Menjalankan Proyek Secara Lokal
+
+1. **Clone repository** ini:
+   ```bash
+   git clone https://github.com/username/nama-repo.git
+   cd nama-repo
